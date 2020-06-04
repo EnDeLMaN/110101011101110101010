@@ -6,4 +6,4 @@ Installation
 5) Run php artisan key:generate
 6) Run php artisan migrate
 7) Run php artisan db:seed
-For starting laravel server - php artisan serve
+8) For starting laravel server run php artisan serve
